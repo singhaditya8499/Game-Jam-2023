@@ -7,11 +7,8 @@
 import pygame
 import time
 import random
-import cv2
 import imutils
 import numpy as np
-# from sklearn.metrics import pairwise
-import random
 
 bg = None
 pygame.init()
